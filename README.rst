@@ -1,3 +1,7 @@
+
+Forked from `docker-opengl <https://github.com/thewtex/docker-opengl>`_ and hacked to use Ubuntu base image.
+
+
 docker-opengl
 =============
 A docker image that supports rendering graphical applications, including OpenGL apps.
