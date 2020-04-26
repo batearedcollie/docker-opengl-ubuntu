@@ -1,7 +1,6 @@
 
 Forked from `docker-opengl <https://github.com/thewtex/docker-opengl>`_ and hacked to use Ubuntu base image.
 
-
 docker-opengl
 =============
 A docker image that supports rendering graphical applications, including OpenGL apps.
@@ -19,7 +18,7 @@ This Docker image supports portable, CPU-based graphical application
 rendering, including rendering OpenGL-based applications. An X session is
 running on display `:0` and can be viewed through HTML5 viewer on any device
 with a modern web browser (Mac OSX, Windows, Linux, Android, iOS, ChromeOS,
-...). It can be used to expose a graphical interface from a Docker container
+...). It can be used to expose a graphical interface from a Docker coqvi ntainer
 or to run continuous integration tests that require a graphical environment.
 
 Quick-start
